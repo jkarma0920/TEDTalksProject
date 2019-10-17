@@ -120,3 +120,8 @@ Thumbs.db
 
 # config file
 config.py
+
+
+dtm.pkl
+dtm_stop.pkl
+*.pkl
