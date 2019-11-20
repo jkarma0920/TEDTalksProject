@@ -121,7 +121,7 @@ Thumbs.db
 # config file
 config.py
 
-
+data_clean.pkl
 dtm.pkl
 dtm_stop.pkl
 *.pkl
