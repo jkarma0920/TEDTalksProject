@@ -63,7 +63,7 @@ Ran on various combinations of text categories:
 
 
 ## Conclusions and Further Improvements
-__Discovered some patterns, and completed (two) "deliverables, but much room for improvement__
+__Discovered some patterns, and completed (two) "deliverables," but much room for improvement__
 - ways to speed up code (other modules?  use of shards?)
 - Transcript scroller + link to wikipedia profiles
 - Will continue to be "fertile ground" for learning & appyling NLP concepts
